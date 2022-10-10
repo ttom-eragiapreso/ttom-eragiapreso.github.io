@@ -11,7 +11,6 @@
 }
 
 
-
 /* RESET AND GENERAL */
 
 *, *::before, *::after {
@@ -123,15 +122,12 @@ aside {
 }
 
 
-
-
 /* BIO */
 
 .bio {
   width: calc(50%);
   background-color: var(--bio-background-color);
   color: var(--bio-text-color);
-  /* padding: 0 170px; */
   font-size: 1.3rem;
   font-family: 'Playfair Display', serif;
   display: flex;
@@ -165,7 +161,6 @@ aside {
   display: flex;
   flex-wrap: wrap;
 }
-
 
 .card-container {
   width: calc(100% / 4);
@@ -232,7 +227,6 @@ iframe {
   height: calc(100vh - 250px);
   padding: 10px 0;
 }
-
 
 
 /* SECTION SOUNDCLOUD */
@@ -303,18 +297,15 @@ iframe {
   padding: 10px;
 }
 
-
 .video-container:nth-child(2n) {
   align-self: flex-end;
 }
-
 
 /* COMING SOON */
 
 .comingsoon {
   height: 100vh;
   background-color: var(--card-description-background-color);
-  /* background-color: black; */
 }
 
 .comingsoon h2 {
@@ -333,7 +324,8 @@ iframe {
   width: 50%;
 }
 
-/* MOBILE RESPONSIVE */
+
+/* ------------------ MOBILE RESPONSIVE ------------------------ */
 
 @media (max-width: 768px) {
 
