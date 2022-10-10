@@ -343,7 +343,8 @@ iframe {
   }
 
   .landing-page img {
-    height: calc(100vh - 80px);
+    height: calc(100vh);
+    object-position: -97px 0;
   }
 
   /* ASIDE */
