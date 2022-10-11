@@ -446,7 +446,7 @@ iframe {
   }
 
   .comingsoon .container .card-container:last-of-type,
-.comingsoon .container .card-container:nth-last-of-type(2) {
+  .comingsoon .container .card-container:nth-last-of-type(2) {
   width: 100%;
 }
 
