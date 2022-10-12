@@ -358,7 +358,7 @@ iframe {
   }
 
   .socials {
-    flex-direction: row;
+    /* flex-direction: row; */
     margin: 0;
     font-size: 1.4rem;
   }
