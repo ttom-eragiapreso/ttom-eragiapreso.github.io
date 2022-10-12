@@ -360,7 +360,12 @@ iframe {
   .socials {
     /* flex-direction: row; */
     margin: 0;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
+    height: 100%
+  }
+
+  .socials a {
+    margin: 0;
   }
 
   .socials i {
