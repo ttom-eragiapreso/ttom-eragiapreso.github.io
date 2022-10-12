@@ -35,7 +35,7 @@ video {
 }
 
 .container {
-  width: 85%;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -258,6 +258,7 @@ iframe {
 
 .img-container img{
   border-radius: 15px;
+  width: 450px;
 }
 
 .soundcloud-cta {
